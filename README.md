@@ -17,7 +17,7 @@
 
 | **Languages**       | **Frameworks & Tools**          | **Cloud & DevOps**                 |
 |----------------------|---------------------------------|-----------------------------------|
-| JavaScript,          | Node.js, Express.js, Fastify    | GCP, Kubernetes, Firebase         |
+| JavaScript, Dart     | Node.js, Express.js, Flutter    | GCP, Kubernetes, Firebase         |
 | Python, Shell, Cypher| Neo4j, Firestore, Solr          | CI/CD, Docker, GitHub Actions     |
 | Graph SQL, NoSQL     |                                 | Google Cloud Build                |
 
